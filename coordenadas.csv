@@ -1,54 +1,54 @@
 Lugar,X,Y
-Toro,41.51,-5.05
+Toro,-4,4
 Vino de España,NaN,NaN
-Ribera del Duero,41.37,-3.92
-Montilla-Moriles,37.67,-4.76
-Jumilla,38.91,-1.69
-Jerez-Xeres-Sherry,36.67,-6.14
-Priorato,41.18,1.16
-Rioja,42.41,-2.42
-Bierzo,42.58,-6.61
-Castilla y León,42.66,-5.10
-Campo de Borja,41.78,-1.61
-Cádiz,36.52,-6.29
-Cava,41.32,02.09
-Jerez Palo Cortado,36.67,-6.14
-Manzanilla,36.67,-6.14
-Valdeorras,42.33,-7.02
-Empordà,42.25,2.98
-Rioja Alta,42.54,-2.59
-Alicante,38.33,-0.48
-Somontano,42.23,0.60
-Dominio de Valdepusa,40.36,-3.05
-Ribeiro,42.52,-8.16
-Mallorca,39.57,2.62
-Yecla,38.93,-1.08
-Cigales,41.48,-4.77
-Utiel-Requena,39.43,-1.68
-Navarra,42.83,-1.60
-Rioja Alavesa,42.57,-2.65
-Costers del Segre,41.70,1.12
-Sardón de Duero,41.50,-4.02
-Málaga,36.72,-4.42
-Cataluña,41.29,1.98
-Rueda,41.58,-4.85
-Jerez Pedro Ximénez (PX),36.67,-6.14
-Montsant,41.22,0.98
-Conca de Barberà,41.50,1.28
-Rías Baixas,42.43,-8.73
-Jerez Amontillado,36.67,-6.14
-Tierra del Vino de Zamora,41.58,-5.71
-Penedès,41.32,1.80
-Dehesa del Carrizal,36.63,-6.10
-Madrid,40.40,-3.69
-Cariñena,41.27,-1.27
-Condado de Huelva,37.23,-6.63
-Almansa,39.07,-1.08
-Jerez Cream,36.67,-6.14
-Valencia,39.47,-0.37
-Sierras de Málaga,36.72,-4.42
-Ribeira Sacra,42.33,-7.72
-El Terrerazo,40.36,-3.05
-Jerez Oloroso,36.67,-6.14
-Castilla,41.61,-3.91
-Alella,41.48,2.25
+Ribera del Duero,0,4
+Montilla-Moriles,-3.5,-7
+Jumilla,-5,-8
+Jerez-Xeres-Sherry,-7,-11
+Priorato,9.5,1
+Rioja,3.5,5.5
+Bierzo,-5,8
+Castilla y León,-3,5
+Campo de Borja,-5,4
+Cádiz,-7.5,-11
+Cava,14,2
+Jerez Palo Cortado,-7,-11
+Manzanilla,-8,-8
+Valdeorras,-8,7
+Empordà,14,3
+Rioja Alta,3.5,5.5
+Alicante,8,-6
+Somontano,9,5
+Dominio de Valdepusa,-2,-1
+Ribeiro,-9,9
+Mallorca,16,-4
+Yecla,-5,-8
+Cigales,-4,4
+Utiel-Requena,7.5,-3
+Navarra,5,7
+Rioja Alavesa,3.5,5.5
+Costers del Segre,12,4
+Sardón de Duero,0,4
+Málaga,-3,-11
+Cataluña,14,2
+Rueda,-2,3
+Jerez Pedro Ximénez (PX),-7,-11
+Montsant,15,5
+Conca de Barberà,13,2
+Rías Baixas,-11,8
+Jerez Amontillado,-7,-11
+Tierra del Vino de Zamora,-5,5
+Penedès,12,3
+Dehesa del Carrizal,-1,-1
+Madrid,0,0
+Cariñena,7,4
+Condado de Huelva,-9,-8
+Almansa,6,-5
+Jerez Cream,-7,-11
+Valencia,7.5,-3
+Sierras de Málaga,-4,-10
+Ribeira Sacra,-8,10
+El Terrerazo,7.5,-3
+Jerez Oloroso,-7,-11
+Castilla,NaN,NaN
+Alella,13.5,2
